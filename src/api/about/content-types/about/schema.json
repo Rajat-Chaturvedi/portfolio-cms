@@ -17,6 +17,8 @@
     "summary": { "type": "richtext" },
     "paragraphs": { "type": "richtext" },
     "resumeUrl": { "type": "string" },
+    "gitHubUrl": { "type": "string" },
+    "linkedInUrl": { "type": "string" },
     "typewriterTexts": { "type": "json" },
     "experienceStats": { "type": "string" }
   }
