@@ -8,16 +8,16 @@
     "description": "Write about yourself and the content you create"
   },
   "options": {
-    "draftAndPublish": false
+    "draftAndPublish": true
   },
   "pluginOptions": {},
   "attributes": {
-    "title": {
-      "type": "string"
-    },
-    "blocks": {
-      "type": "dynamiczone",
-      "components": ["shared.media", "shared.quote", "shared.rich-text", "shared.slider"]
-    }
+    "name": { "type": "string", "required": true },
+    "role": { "type": "string" },
+    "summary": { "type": "richtext" },
+    "paragraphs": { "type": "richtext" },
+    "resumeUrl": { "type": "string" },
+    "typewriterTexts": { "type": "json" },
+    "experienceStats": { "type": "string" }
   }
 }

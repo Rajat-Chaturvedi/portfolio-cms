@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_experience_bullets",
+  "info": {
+    "displayName": "Bullet"
+  },
+  "attributes": {
+    "point": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

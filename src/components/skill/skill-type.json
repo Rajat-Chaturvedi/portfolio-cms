@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_skill_skill_types",
+  "info": {
+    "displayName": "Skill Type"
+  },
+  "attributes": {
+    "subType": {
+      "type": "string",
+      "required": true
+    },
+    "icon": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": ["images"],
+      "required": true
+    }
+  }
+}

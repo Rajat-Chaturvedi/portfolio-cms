@@ -1,5 +1,15 @@
 import type { Schema, Struct } from '@strapi/strapi';
 
+export interface ExperienceBullet extends Struct.ComponentSchema {
+  collectionName: 'components_experience_bullets';
+  info: {
+    displayName: 'Bullet';
+  };
+  attributes: {
+    point: Schema.Attribute.String & Schema.Attribute.Required;
+  };
+}
+
 export interface SharedMedia extends Struct.ComponentSchema {
   collectionName: 'components_shared_media';
   info: {
@@ -62,14 +72,27 @@ export interface SharedSlider extends Struct.ComponentSchema {
   };
 }
 
+export interface SkillSkillType extends Struct.ComponentSchema {
+  collectionName: 'components_skill_skill_types';
+  info: {
+    displayName: 'Skill Type';
+  };
+  attributes: {
+    icon: Schema.Attribute.Media<'images'> & Schema.Attribute.Required;
+    subType: Schema.Attribute.String & Schema.Attribute.Required;
+  };
+}
+
 declare module '@strapi/strapi' {
   export module Public {
     export interface ComponentSchemas {
+      'experience.bullet': ExperienceBullet;
       'shared.media': SharedMedia;
       'shared.quote': SharedQuote;
       'shared.rich-text': SharedRichText;
       'shared.seo': SharedSeo;
       'shared.slider': SharedSlider;
+      'skill.skill-type': SkillSkillType;
     }
   }
 }
