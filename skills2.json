@@ -1,0 +1,58 @@
+[
+  {
+    "name": "HTML",
+    "order": 1,
+    "types": [
+      { "subType": "HTML5", "icon": 77 },
+      { "subType": "JSX", "icon": 78 }
+    ]
+  },
+  {
+    "name": "CSS",
+    "order": 2,
+    "types": [
+      { "subType": "CSS3", "icon": 6 },
+      { "subType": "SASS", "icon": 37 },
+      { "subType": "Bootstrap", "icon": 5 },
+      { "subType": "Material UI", "icon": 97 },
+      { "subType": "Ant Design", "icon": 4 }
+    ]
+  },
+  {
+    "name": "Javascript",
+    "order": 3,
+    "types": [
+      { "subType": "Javascript", "icon": 78 },
+      { "subType": "Typescript", "icon": 49 },
+      { "subType": "React JS", "icon": 62 },
+      { "subType": "Next Js", "icon": 59 },
+      { "subType": "Redux", "icon": 63 },
+      { "subType": "Magento PWA", "icon": 86 },
+      { "subType": "PWA", "icon": 66 },
+      { "subType": "NodeJs", "icon": 68 },
+      { "subType": "React Native", "icon": 73 }
+    ]
+  },
+  {
+    "name": "Backend",
+    "order": 4,
+    "types": [
+      { "subType": "MongoDB", "icon": 96 },
+      { "subType": "GraphQL", "icon": 88 },
+      { "subType": "Rest API", "icon": 72 },
+      { "subType": "Apollo", "icon": 3 },
+      { "subType": "Prisma", "icon": 60 },
+      { "subType": "PostgreSQL", "icon": 71 },
+      { "subType": "SQL Server", "icon": 50 }
+    ]
+  },
+  {
+    "name": "CMS",
+    "order": 6,
+    "types": [
+      { "subType": "Strapi", "icon": 42 },
+      { "subType": "Magento 2", "icon": 82 },
+      { "subType": "Wordpress", "icon": 38 }
+    ]
+  }
+]
