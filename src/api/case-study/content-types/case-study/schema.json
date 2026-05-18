@@ -1,0 +1,19 @@
+{
+  "collectionName": "case_studies",
+  "info": {
+    "singularName": "case-study",
+    "pluralName": "case-studies",
+    "displayName": "Case Study"
+  },
+  "attributes": {
+    "title": { "type": "string", "required": true },
+    "role": { "type": "string" },
+    "duration": { "type": "string" },
+    "problem": { "type": "text" },
+    "solution": { "type": "text" },
+    "outcome": { "type": "text" },
+    "stack": { "type": "string" },
+    "liveUrl": { "type": "string" },
+    "repoUrl": { "type": "string" }
+  }
+}

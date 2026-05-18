@@ -1,0 +1,13 @@
+{
+  "collectionName": "impact_metrics",
+  "info": {
+    "singularName": "impact-metric",
+    "pluralName": "impact-metrics",
+    "displayName": "Impact Metric"
+  },
+  "attributes": {
+    "metric": { "type": "string" },
+    "value": { "type": "string" },
+    "description": { "type": "text" }
+  }
+}

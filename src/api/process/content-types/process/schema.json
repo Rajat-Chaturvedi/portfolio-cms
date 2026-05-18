@@ -1,0 +1,12 @@
+{
+  "collectionName": "process",
+  "info": {
+    "singularName": "process",
+    "pluralName": "processes",
+    "displayName": "Process"
+  },
+  "attributes": {
+    "step": { "type": "string" },
+    "description": { "type": "text" }
+  }
+}

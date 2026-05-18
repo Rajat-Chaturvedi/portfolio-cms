@@ -1,0 +1,13 @@
+{
+  "collectionName": "testimonials",
+  "info": {
+    "singularName": "testimonial",
+    "pluralName": "testimonials",
+    "displayName": "Testimonial"
+  },
+  "attributes": {
+    "author": { "type": "string" },
+    "content": { "type": "text" },
+    "role": { "type": "string" }
+  }
+}

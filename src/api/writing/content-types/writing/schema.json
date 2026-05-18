@@ -1,0 +1,13 @@
+{
+  "collectionName": "writings",
+  "info": {
+    "singularName": "writing",
+    "pluralName": "writings",
+    "displayName": "Writing"
+  },
+  "attributes": {
+    "title": { "type": "string", "required": true },
+    "content": { "type": "text" },
+    "author": { "type": "string" }
+  }
+}

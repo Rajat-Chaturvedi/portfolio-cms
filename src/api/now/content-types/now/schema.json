@@ -1,0 +1,12 @@
+{
+  "collectionName": "now",
+  "info": {
+    "singularName": "now",
+    "pluralName": "nows",
+    "displayName": "Now"
+  },
+  "attributes": {
+    "title": { "type": "string" },
+    "description": { "type": "text" }
+  }
+}
