@@ -3,109 +3,413 @@
     "name": "HTML",
     "order": 1,
     "types": [
-      { "subType": "HTML5" },
-      { "subType": "JSX" }
-    ]
+      {
+        "subType": "HTML5",
+        "id": 1,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918977/html5_rzupqt.png"
+        }
+      },
+      {
+        "subType": "JSX",
+        "id": 2,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918986/react_rcccxs.png"
+        }
+      }
+    ],
+    "id": 1
   },
   {
     "name": "CSS",
     "order": 2,
     "types": [
-      { "subType": "CSS3" },
-      { "subType": "SASS" },
-      { "subType": "Bootstrap"},
-      { "subType": "Material UI"},
-      { "subType": "Ant Design" }
-    ]
+      {
+        "subType": "CSS3",
+        "id": 1,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918981/css3_bdjus3.png"
+        }
+      },
+      {
+        "subType": "SASS",
+        "id": 2,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918988/sass_lgqozr.png"
+        }
+      },
+      {
+        "subType": "Bootstrap",
+        "id": 3,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918978/bootstrap_ypxxqe.png"
+        }
+      },
+      {
+        "subType": "Material UI",
+        "id": 4,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918982/material-ui_vccwin.webp"
+        }
+      },
+      {
+        "subType": "Ant Design",
+        "id": 5,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918976/antdesign_cgefrc.png"
+        }
+      }
+    ],
+    "id": 2
   },
   {
     "name": "Javascript",
     "order": 3,
     "types": [
-      { "subType": "Javascript" },
-      { "subType": "Typescript"},
-      { "subType": "React JS" },
-      { "subType": "Next Js" },
-      { "subType": "Redux" },
-      { "subType": "Magento PWA" },
-      { "subType": "PWA" },
-      { "subType": "NodeJs" },
-      { "subType": "React Native" }
-    ]
+      {
+        "subType": "Javascript",
+        "id": 1,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918978/javascript_q0r3sm.png"
+        }
+      },
+      {
+        "subType": "Typescript",
+        "id": 2,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918990/typescript_lxmywz.png"
+        }
+      },
+      {
+        "subType": "React JS",
+        "id": 3,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918986/react_rcccxs.png"
+        }
+      },
+      {
+        "subType": "Next Js",
+        "id": 4,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918984/nextjs_rnukjd.png"
+        }
+      },
+      {
+        "subType": "Redux",
+        "id": 5,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918987/redux_plogf4.png"
+        }
+      },
+      {
+        "subType": "Magento PWA",
+        "id": 6,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918981/magento-pwa_dbcfmk.png"
+        }
+      },
+      {
+        "subType": "PWA",
+        "id": 7,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918986/pwa_fp8q7x.png"
+        }
+      },
+      {
+        "subType": "NodeJs",
+        "id": 8,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918985/nodejs_etbg47.png"
+        }
+      },
+      {
+        "subType": "React Native",
+        "id": 9,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918986/reactnative_rmln6m.webp"
+        }
+      }
+    ],
+    "id": 3
   },
   {
     "name": "Backend",
     "order": 4,
     "types": [
-      { "subType": "MongoDB" },
-      { "subType": "GraphQL" },
-      { "subType": "Rest API"},
-      { "subType": "Apollo" },
-      { "subType": "Prisma"},
-      { "subType": "PostgreSQL"},
-      { "subType": "SQL Server"}
-    ]
+      {
+        "subType": "MongoDB",
+        "id": 1,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918984/mongodb_yvu2ci.png"
+        }
+      },
+      {
+        "subType": "GraphQL",
+        "id": 2,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918975/graphql_papu5l.png"
+        }
+      },
+      {
+        "subType": "Rest API",
+        "id": 3,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918988/restapi_o3rkbh.png"
+        }
+      },
+      {
+        "subType": "Apollo",
+        "id": 4,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918975/apollo_e8gsmj.png"
+        }
+      },
+      {
+        "subType": "Prisma",
+        "id": 5,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918985/prisma_dvg510.png"
+        }
+      },
+      {
+        "subType": "PostgreSQL",
+        "id": 6,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918985/postgresql_z13hoy.png"
+        }
+      },
+      {
+        "subType": "SQL Server",
+        "id": 7,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918989/sql_xw1m6b.png"
+        }
+      }
+    ],
+    "id": 4
   },
   {
     "name": "Payment Gateways",
     "order": 5,
     "types": [
-      { "subType": "Amazon Pay Front"},
-      { "subType": "Apple Pay"},
-      { "subType": "Checkout.com"},
-      { "subType": "Stripe" },
-      { "subType": "Tabby" },
-      { "subType": "Tamara"}
-    ]
+      {
+        "subType": "Amazon Pay Front",
+        "id": 1,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918975/amazonpay_kbvjrl.png"
+        }
+      },
+      {
+        "subType": "Apple Pay",
+        "id": 2,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918975/applepay_ftdskd.png"
+        }
+      },
+      {
+        "subType": "Checkout.com",
+        "id": 3,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918978/checkout_x1iz5g.png"
+        }
+      },
+      {
+        "subType": "Stripe",
+        "id": 4,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918989/stripe_rhlpru.png"
+        }
+      },
+      {
+        "subType": "Tabby",
+        "id": 5,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918989/tabby_ftsgzw.png"
+        }
+      },
+      {
+        "subType": "Tamara",
+        "id": 6,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918990/tamara_pbx3q9.png"
+        }
+      }
+    ],
+    "id": 5
   },
   {
     "name": "CMS",
     "order": 6,
     "types": [
-      { "subType": "Strapi" },
-      { "subType": "Magento 2" },
-      { "subType": "Wordpress" }
-    ]
+      {
+        "subType": "Strapi",
+        "id": 1,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918989/strapi_frmj8v.png"
+        }
+      },
+      {
+        "subType": "Magento 2",
+        "id": 2,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918981/magento2_ecwg48.png"
+        }
+      },
+      {
+        "subType": "Wordpress",
+        "id": 3,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918991/wordpress_wor9hh.png"
+        }
+      }
+    ],
+    "id": 6
   },
   {
     "name": "Analytics & Monitoring",
     "order": 7,
     "types": [
-      { "subType": "Sentry" },
-      { "subType": "SonarQube"},
-      { "subType": "Google Tag Manager" },
-      { "subType": "Google Analytics"}
-    ]
+      {
+        "subType": "Sentry",
+        "id": 1,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918988/sentry_bma6zf.png"
+        }
+      },
+      {
+        "subType": "SonarQube",
+        "id": 2,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918988/sonarqube_wbrwc2.png"
+        }
+      },
+      {
+        "subType": "Google Tag Manager",
+        "id": 3,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918977/gtm_yxmpe8.png"
+        }
+      },
+      {
+        "subType": "Google Analytics",
+        "id": 4,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918983/ga_hjq4nt.jpg"
+        }
+      }
+    ],
+    "id": 7
   },
   {
     "name": "Cloud & Devops",
     "order": 8,
     "types": [
-      { "subType": "Cloudflare"},
-      { "subType": "Cloudfront"},
-      { "subType": "AWS" }
-    ]
+      {
+        "subType": "Cloudflare",
+        "id": 1,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918980/cloudflare_rkcabx.png"
+        }
+      },
+      {
+        "subType": "Cloudfront",
+        "id": 2,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918981/cloudfront_bbzaek.png"
+        }
+      },
+      {
+        "subType": "AWS",
+        "id": 3,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918978/aws_kmb8gk.png"
+        }
+      }
+    ],
+    "id": 8
   },
   {
     "name": "Other",
     "order": 9,
     "types": [
-      { "subType": "SEO"},
-      { "subType": "Figma"},
-      { "subType": "Creatie"}
-    ]
+      {
+        "subType": "SEO",
+        "id": 1,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918988/seo_suocig.png"
+        }
+      },
+      {
+        "subType": "Figma",
+        "id": 2,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918983/figma_sfkh3n.png"
+        }
+      },
+      {
+        "subType": "Creatie",
+        "id": 3,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918980/creatie_jd44ui.png"
+        }
+      }
+    ],
+    "id": 9
   },
   {
     "name": "Tools",
     "order": 10,
     "types": [
-      { "subType": "Gitlab" },
-      { "subType": "Github" },
-      { "subType": "VS Code" },
-      { "subType": "Visual Studio" },
-      { "subType": "Dev Tools" },
-      { "subType": "Postman" },
-      { "subType": "Swagger" }
-    ]
+      {
+        "subType": "Gitlab",
+        "id": 1,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918975/gitlab_pbtmwe.png"
+        }
+      },
+      {
+        "subType": "Github",
+        "id": 2,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918985/github_gagkur.png"
+        }
+      },
+      {
+        "subType": "VS Code",
+        "id": 3,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918991/vscode_xot4gz.webp"
+        }
+      },
+      {
+        "subType": "Visual Studio",
+        "id": 4,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918990/visualstudio_ihwwud.png"
+        }
+      },
+      {
+        "subType": "Dev Tools",
+        "id": 5,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918982/devtools_sqryst.png"
+        }
+      },
+      {
+        "subType": "Postman",
+        "id": 6,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918985/postman_ynorhd.png"
+        }
+      },
+      {
+        "subType": "Swagger",
+        "id": 7,
+        "icon": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918989/swagger_rt7ccd.png"
+        }
+      }
+    ],
+    "id": 10
   }
 ]

@@ -13,6 +13,10 @@
   "attributes": {
     "name": { "type": "string", "required": true },
     "description": { "type": "richtext" },
+    "role": { "type": "string" },
+    "problem": { "type": "text" },
+    "solution": { "type": "text" },
+    "outcome": { "type": "text" },
     "image": {
       "type": "media",
       "allowedTypes": ["images"],

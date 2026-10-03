@@ -1,93 +1,169 @@
 [
   {
+    "id": 12,
     "order": -1,
     "name": "Best Buy",
+    "role": "Software Engineer, BBY Services India LLP",
+    "problem": "Support low-latency conversational commerce while sharing UI and packages across web and mobile experiences.",
+    "solution": "Built Ask Blue's streaming-chat caching layer, optimized data fetching, and contributed to shared micro-frontends and GitHub Actions release and validation workflows.",
+    "outcome": "The Ask Blue caching layer achieved under 1s LCP and 0 CLS, as recorded in my resume.",
     "description": "Contributed to Best Buy's Ask Blue conversational commerce and Manage Content micro-frontends, focusing on streaming chat, cached-to-live handoff, performance optimization, shared UI components, and automated release workflows.",
     "link": "https://www.bestbuy.com/",
-    "techStack": ["React", "TypeScript", "React Native", "Zustand", "Redux", "Webpack", "Vite", "GitHub Actions"]
+    "techStack": [
+      "React",
+      "TypeScript",
+      "React Native",
+      "Zustand",
+      "Redux",
+      "Webpack",
+      "Vite",
+      "GitHub Actions"
+    ],
+    "image": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1779119797/Screenshot_2026_05_18_at_9_24_19_PM_1a64b1213d.png"
+    }
   },
   {
+    "id": 13,
     "order": 0,
     "name": "Resume-to-JD Optimizer",
+    "problem": "Help applicants compare their resume with job requirements and prepare readable, ATS-compatible application documents.",
+    "solution": "Combine keyword and qualification gap analysis, an ATS compliance audit, editable resume rewriting, and single-column templates with PDF and DOCX exports.",
     "description": "A resume optimization tool that compares a resume with a job description, reports keyword and qualification gaps, audits ATS compliance, and produces an editable rewritten resume with ATS-safe templates and PDF/DOCX exports.",
     "link": "https://resume-optimizer-seven-theta.vercel.app/",
-    "techStack": []
+    "techStack": [
+      "Next.js 16",
+      "React 19",
+      "TypeScript",
+      "PDF.js",
+      "Mammoth",
+      "pdf-lib",
+      "docx",
+      "OpenAI-compatible API"
+    ],
+    "image": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1789038471/Screenshot_2026_09_10_at_4_37_13_PM_988386150e.png"
+    }
   },
   {
     "name": "The Kanaa",
     "description": "The Kanaa is an e-commerce platform tailored for the GCC market, offering a curated range of products across categories with an intuitive shopping experience and optimized performance.",
     "link": "https://thekanaa.com/en-sa/",
     "techStack": ["nextjs", "pwa", "magento2", "graphQL"],
-    "order": 1
+    "order": 1,
+    "id": 1,
+    "image": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918990/thekanaa_qqwfmo.png"
+    }
   },
   {
     "name": "MECL (ME Stores)",
     "description": "MECL (ME Stores) is a large-scale e-commerce platform serving the Saudi market, offering a wide range of consumer products with a focus on performance, scalability, and seamless shopping experience.",
     "link": "https://mestores.com/en_sa",
     "techStack": ["nextjs", "pwa", "magento2", "graphQL", "sass"],
-    "order": 2
+    "order": 2,
+    "id": 2,
+    "image": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918983/mecl_q51fdc.png"
+    }
   },
   {
     "name": "PisaStone",
     "description": "PisaStone offers high-quality engineered and natural stone surfaces for residential and commercial use. Their products blend durability with aesthetic appeal for various interior and exterior applications.",
     "link": "https://www.pisastone.co.uk/",
     "techStack": ["nextjs 14", "typescript", "mongodb", "rest api", "sass"],
-    "order": 3
+    "order": 3,
+    "id": 3,
+    "image": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918987/pisastone_ncjjjh.png"
+    }
   },
   {
     "name": "CMS PisaStone",
     "description": "Inhouse CMS for managing product listings, reviews, orders, and other website content of Pisastone.",
     "link": "https://cms.pisastone.co.uk/",
     "techStack": ["nextjs 14", "mongodb", "bootstrap cms", "rest api"],
-    "order": 4
+    "order": 4,
+    "id": 4,
+    "image": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918980/cms-pisa_pln0ac.png"
+    }
   },
   {
     "name": "Wasalt",
     "description": "Wasalt is the first-ever AI-powered real estate platform in Saudi Arabia that deals in both residential as well as commercial real estate properties.",
     "link": "https://wasalt.com/en",
     "techStack": ["nextjs", "strapi", "ant design"],
-    "order": 5
+    "order": 5,
+    "id": 5,
+    "image": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918992/wasalt_cjjfsd.png"
+    }
   },
   {
     "name": "Wasalt Auction",
     "description": "A web platform for browsing and buying commercial or residential assets from Wasalt auctions via live bidding.",
     "link": "https://auction.wasalt.com/en",
     "techStack": ["nextjs", "strapi", "sass"],
-    "order": 6
+    "order": 6,
+    "id": 6,
+    "image": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918978/auction_bfjzcj.png"
+    }
   },
   {
     "name": "Wasalt Auction Console",
     "description": "A web platform enabling admins to manage auction data and monitor statistics through dashboards with role-based access.",
     "link": "https://auction-console.wasalt.com/en",
     "techStack": ["nextjs", "refine", "ant design"],
-    "order": 7
+    "order": 7,
+    "id": 7,
+    "image": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918977/auction-console_nunlsq.png"
+    }
   },
   {
     "name": "UMS BackOffice",
     "description": "A web platform enabling super admins and admins to manage auction data and monitor statistics with role-based permissions.",
     "link": "https://ums.wasalt.com/en",
     "techStack": ["nextjs", "refine", "ant design"],
-    "order": 8
+    "order": 8,
+    "id": 8,
+    "image": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918990/ums_rdb8pl.png"
+    }
   },
   {
     "name": "Vougish",
     "description": "A headless e-commerce web application for lifestyle and accessory products using Next.js and Magento 2.",
     "link": "https://voguish.vercel.app/",
     "techStack": ["nextjs", "magento2", "mui"],
-    "order": 9
+    "order": 9,
+    "id": 9,
+    "image": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918991/vougish_bfxftl.png"
+    }
   },
   {
     "name": "Yexpedite",
     "description": "Yexpedite is a dynamic website designed to streamline and enhance logistics and shipping processes for businesses.",
     "link": "https://www.yexpedite.com/stores",
     "techStack": ["nextjs", "magento2", "middleware"],
-    "order": 10
+    "order": 10,
+    "id": 10,
+    "image": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918991/yexpedite_gkwazi.png"
+    }
   },
   {
     "name": "HRMS",
     "description": "An advanced Human Resource Management System built using Next.js, TypeScript, MongoDB, Prisma ORM, and GraphQL.",
     "link": "https://drive.google.com/file/d/1RpCpx4My2xDNqXRYpWoyr-zL9QmUaybo/view",
     "techStack": ["nextjs", "graphql", "mongodb"],
-    "order": 11
+    "order": 11,
+    "id": 11,
+    "image": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918977/hrms_sftsei.png"
+    }
   }
 ]

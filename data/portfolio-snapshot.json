@@ -1,0 +1,933 @@
+{
+  "/api/about": {
+    "data": {
+      "name": "Rajat Chaturvedi",
+      "role": "Senior Frontend Engineer",
+      "summary": "Frontend engineer with 5+ years building customer-facing web and mobile experiences with React, Next.js, React Native, and TypeScript. Currently at Best Buy India, I work on Ask Blue's conversational commerce experience, micro-frontends, and shared UI systems.",
+      "paragraphs": "My work spans enterprise e-commerce, payment integrations, performance optimization, and frontend team leadership. Highlights include a 35% reduction in feature-delivery cycles, 60% fewer order-processing errors, and an Ask Blue caching layer achieving under 1s LCP and 0 CLS. I build reusable components, resilient data flows, and automated CI/CD checks to keep delivery fast and maintainable.",
+      "resumeUrl": "https://drive.google.com/file/d/1e6DBbFVqU1U2_ZAqaSxWmLPoHe4Y9sXQ/view?usp=sharing",
+      "gitHubUrl": "https://github.com/Rajat-Chaturvedi",
+      "linkedInUrl": "https://www.linkedin.com/in/rajat-chaturvedi-dev",
+      "typewriterTexts": [
+        "Hi, I am Rajat Chaturvedi.",
+        "I build web and mobile experiences.",
+        "React, Next.js, React Native, and TypeScript."
+      ],
+      "experienceStats": "5+ Years of Experience | 10+ Projects delivered",
+      "id": 1
+    }
+  },
+  "/api/awards": {
+    "data": [
+      {
+        "title": "Awarded Performer of the Month for February 2024 at Quara Digital Pvt Ltd.",
+        "order": 1,
+        "id": 1
+      },
+      {
+        "title": "Holds a Bachelor of Technology degree (Honors) in B.Tech.",
+        "order": 2,
+        "id": 2
+      },
+      {
+        "title": "Secured 1st Position in the Robotics workshop/competition held at the district level by IIT Kharagpur.",
+        "order": 3,
+        "id": 3
+      },
+      {
+        "title": "Participated in a Robotics competition at the National Level organized by IIT Mumbai.",
+        "order": 4,
+        "id": 4
+      },
+      {
+        "title": "Attended a Certified WAC Workshop on IC Engine and Design at IIT Roorkee.",
+        "order": 5,
+        "id": 5
+      }
+    ]
+  },
+  "/api/experiences": {
+    "data": [
+      {
+        "company": "BBY Services India LLP",
+        "title": "Software Engineer",
+        "startDate": "May 2026",
+        "endDate": "Present",
+        "order": 0,
+        "id": 6,
+        "logo": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1779117896/bby_india_logo_2fe4280907.png"
+        },
+        "bullets": [
+          {
+            "id": 1,
+            "point": "Built Ask Blue's streaming-chat caching layer, achieving under 1s LCP and 0 CLS."
+          },
+          {
+            "id": 2,
+            "point": "Developed Ask Blue and Manage Content micro-frontends with shared packages and optimized API calls."
+          },
+          {
+            "id": 3,
+            "point": "Automated package releases and PR validation with GitHub Actions, Jest, and build checks."
+          },
+          {
+            "id": 4,
+            "point": "Built shared web and mobile UI components with Styled Components, Storybook, and React Native."
+          }
+        ]
+      },
+      {
+        "company": "Deepdive (Techies Infotech)",
+        "title": "Senior Frontend Engineer",
+        "startDate": "Apr 2025",
+        "endDate": "Apr 2026",
+        "bullets": [
+          {
+            "point": "Led frontend development for enterprise-scale e-commerce PWAs including MECL, LAe3bs, and Sony platforms.",
+            "id": 1
+          },
+          {
+            "point": "Delivered MECL e-commerce platform with zero-downtime deployment and optimized checkout flows.",
+            "id": 2
+          },
+          {
+            "point": "Built scalable, reusable UI components using React, TypeScript, and Next.js.",
+            "id": 3
+          },
+          {
+            "point": "Integrated multiple payment gateways with mobile-first responsive UX.",
+            "id": 4
+          },
+          {
+            "point": "Mentored frontend developers and enforced coding standards and best practices.",
+            "id": 5
+          }
+        ],
+        "order": 1,
+        "id": 1,
+        "logo": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769925813/techies-logo_dsuznv.png"
+        }
+      },
+      {
+        "company": "Infosys",
+        "title": "Senior Software Engineer",
+        "startDate": "Nov 2024",
+        "endDate": "Apr 2025",
+        "bullets": [
+          {
+            "point": "Spearheaded the development and deployment of scalable software solutions to meet enterprise-level requirements.",
+            "id": 1
+          },
+          {
+            "point": "Collaborated with cross-functional teams to design and implement innovative systems that enhance operational efficiency.",
+            "id": 2
+          },
+          {
+            "point": "Mentored junior developers and fostered a culture of continuous learning and improvement.",
+            "id": 3
+          },
+          {
+            "point": "Ensured adherence to best practices in coding, testing, and deployment.",
+            "id": 4
+          }
+        ],
+        "order": 2,
+        "id": 2,
+        "logo": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769925814/infosys-logo_nxsetk.png"
+        }
+      },
+      {
+        "company": "Quara Holdings",
+        "title": "Software Engineer",
+        "startDate": "July 2023",
+        "endDate": "Nov 2024",
+        "bullets": [
+          {
+            "point": "Designed and developed robust software applications to support business operations and client needs.",
+            "id": 1
+          },
+          {
+            "point": "Worked closely with stakeholders to gather requirements and translate them into technical specifications.",
+            "id": 2
+          },
+          {
+            "point": "Optimized existing systems for performance, scalability, and security.",
+            "id": 3
+          },
+          {
+            "point": "Contributed to the full software development lifecycle from ideation to deployment.",
+            "id": 4
+          }
+        ],
+        "order": 3,
+        "id": 3,
+        "logo": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769925813/quara-logo_qp5637.png"
+        }
+      },
+      {
+        "company": "Webkul",
+        "title": "Software Developer",
+        "startDate": "January 2023",
+        "endDate": "June 2023",
+        "bullets": [
+          {
+            "point": "Developed and customized e-commerce solutions using modern web technologies.",
+            "id": 1
+          },
+          {
+            "point": "Integrated third-party APIs and plugins to enhance platform functionality.",
+            "id": 2
+          },
+          {
+            "point": "Debugged and resolved technical issues to ensure seamless application performance.",
+            "id": 3
+          },
+          {
+            "point": "Collaborated with design and product teams to deliver user-centric solutions.",
+            "id": 4
+          }
+        ],
+        "order": 4,
+        "id": 4,
+        "logo": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769925814/webkul-logo_apwgkz.jpg"
+        }
+      },
+      {
+        "company": "Cognizant",
+        "title": "Programmer Analyst",
+        "startDate": "March 2021",
+        "endDate": "January 2023",
+        "bullets": [
+          {
+            "point": "Analyzed client requirements and developed tailored software solutions.",
+            "id": 1
+          },
+          {
+            "point": "Conducted code reviews and implemented improvements to ensure quality deliverables.",
+            "id": 2
+          },
+          {
+            "point": "Maintained and enhanced legacy systems aligned with modern standards.",
+            "id": 3
+          },
+          {
+            "point": "Worked in agile environments contributing to sprint planning and execution.",
+            "id": 4
+          }
+        ],
+        "order": 5,
+        "id": 5,
+        "logo": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769925814/cognizant-logo_kukin4.webp"
+        }
+      }
+    ]
+  },
+  "/api/projects": {
+    "data": [
+      {
+        "id": 12,
+        "order": -1,
+        "name": "Best Buy",
+        "role": "Software Engineer, BBY Services India LLP",
+        "problem": "Support low-latency conversational commerce while sharing UI and packages across web and mobile experiences.",
+        "solution": "Built Ask Blue's streaming-chat caching layer, optimized data fetching, and contributed to shared micro-frontends and GitHub Actions release and validation workflows.",
+        "outcome": "The Ask Blue caching layer achieved under 1s LCP and 0 CLS, as recorded in my resume.",
+        "description": "Contributed to Best Buy's Ask Blue conversational commerce and Manage Content micro-frontends, focusing on streaming chat, cached-to-live handoff, performance optimization, shared UI components, and automated release workflows.",
+        "link": "https://www.bestbuy.com/",
+        "techStack": [
+          "React",
+          "TypeScript",
+          "React Native",
+          "Zustand",
+          "Redux",
+          "Webpack",
+          "Vite",
+          "GitHub Actions"
+        ],
+        "image": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1779119797/Screenshot_2026_05_18_at_9_24_19_PM_1a64b1213d.png"
+        }
+      },
+      {
+        "id": 13,
+        "order": 0,
+        "name": "Resume-to-JD Optimizer",
+        "problem": "Help applicants compare their resume with job requirements and prepare readable, ATS-compatible application documents.",
+        "solution": "Combine keyword and qualification gap analysis, an ATS compliance audit, editable resume rewriting, and single-column templates with PDF and DOCX exports.",
+        "description": "A resume optimization tool that compares a resume with a job description, reports keyword and qualification gaps, audits ATS compliance, and produces an editable rewritten resume with ATS-safe templates and PDF/DOCX exports.",
+        "link": "https://resume-optimizer-seven-theta.vercel.app/",
+        "techStack": [
+          "Next.js 16",
+          "React 19",
+          "TypeScript",
+          "PDF.js",
+          "Mammoth",
+          "pdf-lib",
+          "docx",
+          "OpenAI-compatible API"
+        ],
+        "image": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1789038471/Screenshot_2026_09_10_at_4_37_13_PM_988386150e.png"
+        }
+      },
+      {
+        "name": "The Kanaa",
+        "description": "The Kanaa is an e-commerce platform tailored for the GCC market, offering a curated range of products across categories with an intuitive shopping experience and optimized performance.",
+        "link": "https://thekanaa.com/en-sa/",
+        "techStack": ["nextjs", "pwa", "magento2", "graphQL"],
+        "order": 1,
+        "id": 1,
+        "image": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918990/thekanaa_qqwfmo.png"
+        }
+      },
+      {
+        "name": "MECL (ME Stores)",
+        "description": "MECL (ME Stores) is a large-scale e-commerce platform serving the Saudi market, offering a wide range of consumer products with a focus on performance, scalability, and seamless shopping experience.",
+        "link": "https://mestores.com/en_sa",
+        "techStack": ["nextjs", "pwa", "magento2", "graphQL", "sass"],
+        "order": 2,
+        "id": 2,
+        "image": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918983/mecl_q51fdc.png"
+        }
+      },
+      {
+        "name": "PisaStone",
+        "description": "PisaStone offers high-quality engineered and natural stone surfaces for residential and commercial use. Their products blend durability with aesthetic appeal for various interior and exterior applications.",
+        "link": "https://www.pisastone.co.uk/",
+        "techStack": ["nextjs 14", "typescript", "mongodb", "rest api", "sass"],
+        "order": 3,
+        "id": 3,
+        "image": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918987/pisastone_ncjjjh.png"
+        }
+      },
+      {
+        "name": "CMS PisaStone",
+        "description": "Inhouse CMS for managing product listings, reviews, orders, and other website content of Pisastone.",
+        "link": "https://cms.pisastone.co.uk/",
+        "techStack": ["nextjs 14", "mongodb", "bootstrap cms", "rest api"],
+        "order": 4,
+        "id": 4,
+        "image": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918980/cms-pisa_pln0ac.png"
+        }
+      },
+      {
+        "name": "Wasalt",
+        "description": "Wasalt is the first-ever AI-powered real estate platform in Saudi Arabia that deals in both residential as well as commercial real estate properties.",
+        "link": "https://wasalt.com/en",
+        "techStack": ["nextjs", "strapi", "ant design"],
+        "order": 5,
+        "id": 5,
+        "image": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918992/wasalt_cjjfsd.png"
+        }
+      },
+      {
+        "name": "Wasalt Auction",
+        "description": "A web platform for browsing and buying commercial or residential assets from Wasalt auctions via live bidding.",
+        "link": "https://auction.wasalt.com/en",
+        "techStack": ["nextjs", "strapi", "sass"],
+        "order": 6,
+        "id": 6,
+        "image": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918978/auction_bfjzcj.png"
+        }
+      },
+      {
+        "name": "Wasalt Auction Console",
+        "description": "A web platform enabling admins to manage auction data and monitor statistics through dashboards with role-based access.",
+        "link": "https://auction-console.wasalt.com/en",
+        "techStack": ["nextjs", "refine", "ant design"],
+        "order": 7,
+        "id": 7,
+        "image": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918977/auction-console_nunlsq.png"
+        }
+      },
+      {
+        "name": "UMS BackOffice",
+        "description": "A web platform enabling super admins and admins to manage auction data and monitor statistics with role-based permissions.",
+        "link": "https://ums.wasalt.com/en",
+        "techStack": ["nextjs", "refine", "ant design"],
+        "order": 8,
+        "id": 8,
+        "image": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918990/ums_rdb8pl.png"
+        }
+      },
+      {
+        "name": "Vougish",
+        "description": "A headless e-commerce web application for lifestyle and accessory products using Next.js and Magento 2.",
+        "link": "https://voguish.vercel.app/",
+        "techStack": ["nextjs", "magento2", "mui"],
+        "order": 9,
+        "id": 9,
+        "image": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918991/vougish_bfxftl.png"
+        }
+      },
+      {
+        "name": "Yexpedite",
+        "description": "Yexpedite is a dynamic website designed to streamline and enhance logistics and shipping processes for businesses.",
+        "link": "https://www.yexpedite.com/stores",
+        "techStack": ["nextjs", "magento2", "middleware"],
+        "order": 10,
+        "id": 10,
+        "image": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918991/yexpedite_gkwazi.png"
+        }
+      },
+      {
+        "name": "HRMS",
+        "description": "An advanced Human Resource Management System built using Next.js, TypeScript, MongoDB, Prisma ORM, and GraphQL.",
+        "link": "https://drive.google.com/file/d/1RpCpx4My2xDNqXRYpWoyr-zL9QmUaybo/view",
+        "techStack": ["nextjs", "graphql", "mongodb"],
+        "order": 11,
+        "id": 11,
+        "image": {
+          "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918977/hrms_sftsei.png"
+        }
+      }
+    ]
+  },
+  "/api/skills": {
+    "data": [
+      {
+        "name": "HTML",
+        "order": 1,
+        "types": [
+          {
+            "subType": "HTML5",
+            "id": 1,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918977/html5_rzupqt.png"
+            }
+          },
+          {
+            "subType": "JSX",
+            "id": 2,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918986/react_rcccxs.png"
+            }
+          }
+        ],
+        "id": 1
+      },
+      {
+        "name": "CSS",
+        "order": 2,
+        "types": [
+          {
+            "subType": "CSS3",
+            "id": 1,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918981/css3_bdjus3.png"
+            }
+          },
+          {
+            "subType": "SASS",
+            "id": 2,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918988/sass_lgqozr.png"
+            }
+          },
+          {
+            "subType": "Bootstrap",
+            "id": 3,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918978/bootstrap_ypxxqe.png"
+            }
+          },
+          {
+            "subType": "Material UI",
+            "id": 4,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918982/material-ui_vccwin.webp"
+            }
+          },
+          {
+            "subType": "Ant Design",
+            "id": 5,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918976/antdesign_cgefrc.png"
+            }
+          }
+        ],
+        "id": 2
+      },
+      {
+        "name": "Javascript",
+        "order": 3,
+        "types": [
+          {
+            "subType": "Javascript",
+            "id": 1,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918978/javascript_q0r3sm.png"
+            }
+          },
+          {
+            "subType": "Typescript",
+            "id": 2,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918990/typescript_lxmywz.png"
+            }
+          },
+          {
+            "subType": "React JS",
+            "id": 3,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918986/react_rcccxs.png"
+            }
+          },
+          {
+            "subType": "Next Js",
+            "id": 4,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918984/nextjs_rnukjd.png"
+            }
+          },
+          {
+            "subType": "Redux",
+            "id": 5,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918987/redux_plogf4.png"
+            }
+          },
+          {
+            "subType": "Magento PWA",
+            "id": 6,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918981/magento-pwa_dbcfmk.png"
+            }
+          },
+          {
+            "subType": "PWA",
+            "id": 7,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918986/pwa_fp8q7x.png"
+            }
+          },
+          {
+            "subType": "NodeJs",
+            "id": 8,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918985/nodejs_etbg47.png"
+            }
+          },
+          {
+            "subType": "React Native",
+            "id": 9,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918986/reactnative_rmln6m.webp"
+            }
+          }
+        ],
+        "id": 3
+      },
+      {
+        "name": "Backend",
+        "order": 4,
+        "types": [
+          {
+            "subType": "MongoDB",
+            "id": 1,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918984/mongodb_yvu2ci.png"
+            }
+          },
+          {
+            "subType": "GraphQL",
+            "id": 2,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918975/graphql_papu5l.png"
+            }
+          },
+          {
+            "subType": "Rest API",
+            "id": 3,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918988/restapi_o3rkbh.png"
+            }
+          },
+          {
+            "subType": "Apollo",
+            "id": 4,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918975/apollo_e8gsmj.png"
+            }
+          },
+          {
+            "subType": "Prisma",
+            "id": 5,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918985/prisma_dvg510.png"
+            }
+          },
+          {
+            "subType": "PostgreSQL",
+            "id": 6,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918985/postgresql_z13hoy.png"
+            }
+          },
+          {
+            "subType": "SQL Server",
+            "id": 7,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918989/sql_xw1m6b.png"
+            }
+          }
+        ],
+        "id": 4
+      },
+      {
+        "name": "Payment Gateways",
+        "order": 5,
+        "types": [
+          {
+            "subType": "Amazon Pay Front",
+            "id": 1,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918975/amazonpay_kbvjrl.png"
+            }
+          },
+          {
+            "subType": "Apple Pay",
+            "id": 2,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918975/applepay_ftdskd.png"
+            }
+          },
+          {
+            "subType": "Checkout.com",
+            "id": 3,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918978/checkout_x1iz5g.png"
+            }
+          },
+          {
+            "subType": "Stripe",
+            "id": 4,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918989/stripe_rhlpru.png"
+            }
+          },
+          {
+            "subType": "Tabby",
+            "id": 5,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918989/tabby_ftsgzw.png"
+            }
+          },
+          {
+            "subType": "Tamara",
+            "id": 6,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918990/tamara_pbx3q9.png"
+            }
+          }
+        ],
+        "id": 5
+      },
+      {
+        "name": "CMS",
+        "order": 6,
+        "types": [
+          {
+            "subType": "Strapi",
+            "id": 1,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918989/strapi_frmj8v.png"
+            }
+          },
+          {
+            "subType": "Magento 2",
+            "id": 2,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918981/magento2_ecwg48.png"
+            }
+          },
+          {
+            "subType": "Wordpress",
+            "id": 3,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918991/wordpress_wor9hh.png"
+            }
+          }
+        ],
+        "id": 6
+      },
+      {
+        "name": "Analytics & Monitoring",
+        "order": 7,
+        "types": [
+          {
+            "subType": "Sentry",
+            "id": 1,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918988/sentry_bma6zf.png"
+            }
+          },
+          {
+            "subType": "SonarQube",
+            "id": 2,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918988/sonarqube_wbrwc2.png"
+            }
+          },
+          {
+            "subType": "Google Tag Manager",
+            "id": 3,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918977/gtm_yxmpe8.png"
+            }
+          },
+          {
+            "subType": "Google Analytics",
+            "id": 4,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918983/ga_hjq4nt.jpg"
+            }
+          }
+        ],
+        "id": 7
+      },
+      {
+        "name": "Cloud & Devops",
+        "order": 8,
+        "types": [
+          {
+            "subType": "Cloudflare",
+            "id": 1,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918980/cloudflare_rkcabx.png"
+            }
+          },
+          {
+            "subType": "Cloudfront",
+            "id": 2,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918981/cloudfront_bbzaek.png"
+            }
+          },
+          {
+            "subType": "AWS",
+            "id": 3,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918978/aws_kmb8gk.png"
+            }
+          }
+        ],
+        "id": 8
+      },
+      {
+        "name": "Other",
+        "order": 9,
+        "types": [
+          {
+            "subType": "SEO",
+            "id": 1,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918988/seo_suocig.png"
+            }
+          },
+          {
+            "subType": "Figma",
+            "id": 2,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918983/figma_sfkh3n.png"
+            }
+          },
+          {
+            "subType": "Creatie",
+            "id": 3,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918980/creatie_jd44ui.png"
+            }
+          }
+        ],
+        "id": 9
+      },
+      {
+        "name": "Tools",
+        "order": 10,
+        "types": [
+          {
+            "subType": "Gitlab",
+            "id": 1,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918975/gitlab_pbtmwe.png"
+            }
+          },
+          {
+            "subType": "Github",
+            "id": 2,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918985/github_gagkur.png"
+            }
+          },
+          {
+            "subType": "VS Code",
+            "id": 3,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918991/vscode_xot4gz.webp"
+            }
+          },
+          {
+            "subType": "Visual Studio",
+            "id": 4,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918990/visualstudio_ihwwud.png"
+            }
+          },
+          {
+            "subType": "Dev Tools",
+            "id": 5,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918982/devtools_sqryst.png"
+            }
+          },
+          {
+            "subType": "Postman",
+            "id": 6,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918985/postman_ynorhd.png"
+            }
+          },
+          {
+            "subType": "Swagger",
+            "id": 7,
+            "icon": {
+              "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769918989/swagger_rt7ccd.png"
+            }
+          }
+        ],
+        "id": 10
+      }
+    ]
+  },
+  "/api/case-studies": {
+    "data": [
+      {
+        "id": 1,
+        "title": "Merchant Onboarding Revamp",
+        "role": "Frontend Lead",
+        "duration": "12 weeks",
+        "problem": "Merchants were dropping during a long onboarding flow with no progress visibility.",
+        "solution": "Built a multi-step wizard with autosave, role-aware forms, and server-side validation for each stage.",
+        "outcome": "Increased onboarding completion by 38% and reduced support tickets by 26%.",
+        "stack": "Next.js, TypeScript, React Hook Form, SCSS",
+        "liveUrl": "https://example.com/onboarding",
+        "repoUrl": "https://github.com/Rajat-Chaturvedi/onboarding-revamp"
+      },
+      {
+        "id": 2,
+        "title": "Real-Time Sales Intelligence Dashboard",
+        "role": "Fullstack Developer",
+        "duration": "10 weeks",
+        "problem": "Leadership had delayed visibility into campaign performance and store-level trends.",
+        "solution": "Implemented modular dashboard widgets with cached API aggregation, filter presets, and visual drilldowns.",
+        "outcome": "Reduced reporting time from hours to minutes and improved weekly planning cadence.",
+        "stack": "Next.js, Node.js, Chart.js, PostgreSQL",
+        "liveUrl": "https://example.com/dashboard",
+        "repoUrl": "https://github.com/Rajat-Chaturvedi/sales-dashboard"
+      },
+      {
+        "id": 3,
+        "title": "Headless Portfolio CMS Migration",
+        "role": "Frontend Engineer",
+        "duration": "6 weeks",
+        "problem": "Content updates required code deployments and slowed down profile freshness.",
+        "solution": "Migrated static content to structured content models and created reusable mappers for UI components.",
+        "outcome": "Enabled non-developers to update content in under 5 minutes without code changes.",
+        "stack": "Next.js, Strapi, TypeScript, REST API",
+        "liveUrl": "https://example.com/portfolio",
+        "repoUrl": "https://github.com/Rajat-Chaturvedi/portfolio-cms"
+      }
+    ]
+  },
+  "/api/ctas": {
+    "data": []
+  },
+  "/api/impact-metrics": {
+    "data": []
+  },
+  "/api/nows": {
+    "data": [
+      {
+        "title": "Now",
+        "focus": "Building performant, content-driven frontend systems with Next.js and headless CMS integrations.",
+        "learning": "Deepening system design patterns for frontend architecture, caching strategy, and observability.",
+        "building": "A polished portfolio revamp with modular section architecture and CMS-first content pipelines.",
+        "availability": "Open to frontend and fullstack opportunities, consulting, and product collaborations.",
+        "id": 1
+      }
+    ]
+  },
+  "/api/processes": {
+    "data": []
+  },
+  "/api/testimonials": {
+    "data": [
+      {
+        "id": 1,
+        "author": "Aarav Mehta",
+        "role": "Engineering Manager",
+        "company": "Nova Retail",
+        "content": "Rajat consistently turns complex requirements into clean and scalable experiences. He improves both speed and quality."
+      },
+      {
+        "id": 2,
+        "author": "Sana Kapoor",
+        "role": "Product Designer",
+        "company": "CloudOrbit",
+        "content": "One of the strongest frontend collaborators I have worked with. His implementation quality matches design intent with precision."
+      },
+      {
+        "id": 3,
+        "author": "Dhruv Sethi",
+        "role": "Founder",
+        "company": "ScaleForge",
+        "content": "Rajat brought ownership, speed, and thoughtful architecture decisions that helped us launch ahead of schedule."
+      }
+    ]
+  },
+  "/api/writings": {
+    "data": [
+      {
+        "id": 1,
+        "title": "Use of fetchMore useQuery in nextJs",
+        "summary": "Implement load-more pagination with Apollo Client, updating query variables and merging GraphQL results in Next.js.",
+        "publisher": "Webkul",
+        "url": "https://webkul.com/blog/use-of-fetchmore-usequery-in-nextjs/",
+        "content": "Implement load-more pagination with Apollo Client, updating query variables and merging GraphQL results in Next.js."
+      },
+      {
+        "id": 2,
+        "title": "Implementation of Material UI in Nextjs",
+        "summary": "Explore Material UI components and build a multi-step form in Next.js using a stepper and React Hook Form.",
+        "publisher": "Webkul",
+        "url": "https://webkul.com/blog/mui-in-nextjsreact/",
+        "content": "Explore Material UI components and build a multi-step form in Next.js using a stepper and React Hook Form."
+      },
+      {
+        "id": 3,
+        "title": "How to Implement useForm() Hook in Nextjs",
+        "summary": "Build and validate a customer-address form with React Hook Form, using register, watch, handleSubmit, and form-state errors.",
+        "publisher": "Webkul",
+        "url": "https://webkul.com/blog/useform-hook-in-nextjs/",
+        "content": "Build and validate a customer-address form with React Hook Form, using register, watch, handleSubmit, and form-state errors."
+      }
+    ]
+  }
+}

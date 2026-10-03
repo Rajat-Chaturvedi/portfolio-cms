@@ -5,11 +5,27 @@
     "startDate": "May 2026",
     "endDate": "Present",
     "order": 0,
+    "id": 6,
+    "logo": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1779117896/bby_india_logo_2fe4280907.png"
+    },
     "bullets": [
-      { "point": "Built Ask Blue's streaming-chat caching layer, achieving under 1s LCP and 0 CLS." },
-      { "point": "Developed Ask Blue and Manage Content micro-frontends with shared packages and optimized API calls." },
-      { "point": "Automated package releases and PR validation with GitHub Actions, Jest, and build checks." },
-      { "point": "Built shared web and mobile UI components with Styled Components, Storybook, and React Native." }
+      {
+        "id": 1,
+        "point": "Built Ask Blue's streaming-chat caching layer, achieving under 1s LCP and 0 CLS."
+      },
+      {
+        "id": 2,
+        "point": "Developed Ask Blue and Manage Content micro-frontends with shared packages and optimized API calls."
+      },
+      {
+        "id": 3,
+        "point": "Automated package releases and PR validation with GitHub Actions, Jest, and build checks."
+      },
+      {
+        "id": 4,
+        "point": "Built shared web and mobile UI components with Styled Components, Storybook, and React Native."
+      }
     ]
   },
   {
@@ -19,22 +35,31 @@
     "endDate": "Apr 2026",
     "bullets": [
       {
-        "point": "Led frontend development for enterprise-scale e-commerce PWAs including MECL, LAe3bs, and Sony platforms."
+        "point": "Led frontend development for enterprise-scale e-commerce PWAs including MECL, LAe3bs, and Sony platforms.",
+        "id": 1
       },
       {
-        "point": "Delivered MECL e-commerce platform with zero-downtime deployment and optimized checkout flows."
+        "point": "Delivered MECL e-commerce platform with zero-downtime deployment and optimized checkout flows.",
+        "id": 2
       },
       {
-        "point": "Built scalable, reusable UI components using React, TypeScript, and Next.js."
+        "point": "Built scalable, reusable UI components using React, TypeScript, and Next.js.",
+        "id": 3
       },
       {
-        "point": "Integrated multiple payment gateways with mobile-first responsive UX."
+        "point": "Integrated multiple payment gateways with mobile-first responsive UX.",
+        "id": 4
       },
       {
-        "point": "Mentored frontend developers and enforced coding standards and best practices."
+        "point": "Mentored frontend developers and enforced coding standards and best practices.",
+        "id": 5
       }
     ],
-    "order": 1
+    "order": 1,
+    "id": 1,
+    "logo": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769925813/techies-logo_dsuznv.png"
+    }
   },
   {
     "company": "Infosys",
@@ -43,19 +68,27 @@
     "endDate": "Apr 2025",
     "bullets": [
       {
-        "point": "Spearheaded the development and deployment of scalable software solutions to meet enterprise-level requirements."
+        "point": "Spearheaded the development and deployment of scalable software solutions to meet enterprise-level requirements.",
+        "id": 1
       },
       {
-        "point": "Collaborated with cross-functional teams to design and implement innovative systems that enhance operational efficiency."
+        "point": "Collaborated with cross-functional teams to design and implement innovative systems that enhance operational efficiency.",
+        "id": 2
       },
       {
-        "point": "Mentored junior developers and fostered a culture of continuous learning and improvement."
+        "point": "Mentored junior developers and fostered a culture of continuous learning and improvement.",
+        "id": 3
       },
       {
-        "point": "Ensured adherence to best practices in coding, testing, and deployment."
+        "point": "Ensured adherence to best practices in coding, testing, and deployment.",
+        "id": 4
       }
     ],
-    "order": 2
+    "order": 2,
+    "id": 2,
+    "logo": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769925814/infosys-logo_nxsetk.png"
+    }
   },
   {
     "company": "Quara Holdings",
@@ -64,19 +97,27 @@
     "endDate": "Nov 2024",
     "bullets": [
       {
-        "point": "Designed and developed robust software applications to support business operations and client needs."
+        "point": "Designed and developed robust software applications to support business operations and client needs.",
+        "id": 1
       },
       {
-        "point": "Worked closely with stakeholders to gather requirements and translate them into technical specifications."
+        "point": "Worked closely with stakeholders to gather requirements and translate them into technical specifications.",
+        "id": 2
       },
       {
-        "point": "Optimized existing systems for performance, scalability, and security."
+        "point": "Optimized existing systems for performance, scalability, and security.",
+        "id": 3
       },
       {
-        "point": "Contributed to the full software development lifecycle from ideation to deployment."
+        "point": "Contributed to the full software development lifecycle from ideation to deployment.",
+        "id": 4
       }
     ],
-    "order": 3
+    "order": 3,
+    "id": 3,
+    "logo": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769925813/quara-logo_qp5637.png"
+    }
   },
   {
     "company": "Webkul",
@@ -85,19 +126,27 @@
     "endDate": "June 2023",
     "bullets": [
       {
-        "point": "Developed and customized e-commerce solutions using modern web technologies."
+        "point": "Developed and customized e-commerce solutions using modern web technologies.",
+        "id": 1
       },
       {
-        "point": "Integrated third-party APIs and plugins to enhance platform functionality."
+        "point": "Integrated third-party APIs and plugins to enhance platform functionality.",
+        "id": 2
       },
       {
-        "point": "Debugged and resolved technical issues to ensure seamless application performance."
+        "point": "Debugged and resolved technical issues to ensure seamless application performance.",
+        "id": 3
       },
       {
-        "point": "Collaborated with design and product teams to deliver user-centric solutions."
+        "point": "Collaborated with design and product teams to deliver user-centric solutions.",
+        "id": 4
       }
     ],
-    "order": 4
+    "order": 4,
+    "id": 4,
+    "logo": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769925814/webkul-logo_apwgkz.jpg"
+    }
   },
   {
     "company": "Cognizant",
@@ -106,18 +155,26 @@
     "endDate": "January 2023",
     "bullets": [
       {
-        "point": "Analyzed client requirements and developed tailored software solutions."
+        "point": "Analyzed client requirements and developed tailored software solutions.",
+        "id": 1
       },
       {
-        "point": "Conducted code reviews and implemented improvements to ensure quality deliverables."
+        "point": "Conducted code reviews and implemented improvements to ensure quality deliverables.",
+        "id": 2
       },
       {
-        "point": "Maintained and enhanced legacy systems aligned with modern standards."
+        "point": "Maintained and enhanced legacy systems aligned with modern standards.",
+        "id": 3
       },
       {
-        "point": "Worked in agile environments contributing to sprint planning and execution."
+        "point": "Worked in agile environments contributing to sprint planning and execution.",
+        "id": 4
       }
     ],
-    "order": 5
+    "order": 5,
+    "id": 5,
+    "logo": {
+      "url": "https://res.cloudinary.com/de7qiztkf/image/upload/v1769925814/cognizant-logo_kukin4.webp"
+    }
   }
 ]

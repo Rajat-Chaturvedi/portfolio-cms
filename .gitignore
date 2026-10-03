@@ -132,6 +132,8 @@ build
 
 # Not relevant for git
 data reference/
+!data reference/
+!data reference/*.json
 sqlite-backup.tar.gz.enc
 scripts/seed-from-reference.js
 types/generated/

@@ -8,6 +8,8 @@
   "attributes": {
     "title": { "type": "string", "required": true },
     "content": { "type": "text" },
+    "url": { "type": "string" },
+    "publisher": { "type": "string" },
     "author": { "type": "string" }
   }
 }

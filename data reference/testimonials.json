@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "author": "Aarav Mehta",
+    "role": "Engineering Manager",
+    "company": "Nova Retail",
+    "content": "Rajat consistently turns complex requirements into clean and scalable experiences. He improves both speed and quality.",
+    "name": "Aarav Mehta",
+    "quote": "Rajat consistently turns complex requirements into clean and scalable experiences. He improves both speed and quality."
+  },
+  {
+    "id": 2,
+    "author": "Sana Kapoor",
+    "role": "Product Designer",
+    "company": "CloudOrbit",
+    "content": "One of the strongest frontend collaborators I have worked with. His implementation quality matches design intent with precision.",
+    "name": "Sana Kapoor",
+    "quote": "One of the strongest frontend collaborators I have worked with. His implementation quality matches design intent with precision."
+  },
+  {
+    "id": 3,
+    "author": "Dhruv Sethi",
+    "role": "Founder",
+    "company": "ScaleForge",
+    "content": "Rajat brought ownership, speed, and thoughtful architecture decisions that helped us launch ahead of schedule.",
+    "name": "Dhruv Sethi",
+    "quote": "Rajat brought ownership, speed, and thoughtful architecture decisions that helped us launch ahead of schedule."
+  }
+]

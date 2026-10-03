@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Use of fetchMore useQuery in nextJs",
+    "summary": "Implement load-more pagination with Apollo Client, updating query variables and merging GraphQL results in Next.js.",
+    "publisher": "Webkul",
+    "url": "https://webkul.com/blog/use-of-fetchmore-usequery-in-nextjs/",
+    "content": "Implement load-more pagination with Apollo Client, updating query variables and merging GraphQL results in Next.js."
+  },
+  {
+    "id": 2,
+    "title": "Implementation of Material UI in Nextjs",
+    "summary": "Explore Material UI components and build a multi-step form in Next.js using a stepper and React Hook Form.",
+    "publisher": "Webkul",
+    "url": "https://webkul.com/blog/mui-in-nextjsreact/",
+    "content": "Explore Material UI components and build a multi-step form in Next.js using a stepper and React Hook Form."
+  },
+  {
+    "id": 3,
+    "title": "How to Implement useForm() Hook in Nextjs",
+    "summary": "Build and validate a customer-address form with React Hook Form, using register, watch, handleSubmit, and form-state errors.",
+    "publisher": "Webkul",
+    "url": "https://webkul.com/blog/useform-hook-in-nextjs/",
+    "content": "Build and validate a customer-address form with React Hook Form, using register, watch, handleSubmit, and form-state errors."
+  }
+]
