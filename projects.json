@@ -1,5 +1,19 @@
 [
   {
+    "order": -1,
+    "name": "Best Buy",
+    "description": "Contributed to Best Buy's Ask Blue conversational commerce and Manage Content micro-frontends, focusing on streaming chat, cached-to-live handoff, performance optimization, shared UI components, and automated release workflows.",
+    "link": "https://www.bestbuy.com/",
+    "techStack": ["React", "TypeScript", "React Native", "Zustand", "Redux", "Webpack", "Vite", "GitHub Actions"]
+  },
+  {
+    "order": 0,
+    "name": "Resume-to-JD Optimizer",
+    "description": "A resume optimization tool that compares a resume with a job description, reports keyword and qualification gaps, audits ATS compliance, and produces an editable rewritten resume with ATS-safe templates and PDF/DOCX exports.",
+    "link": "https://resume-optimizer-seven-theta.vercel.app/",
+    "techStack": []
+  },
+  {
     "name": "The Kanaa",
     "description": "The Kanaa is an e-commerce platform tailored for the GCC market, offering a curated range of products across categories with an intuitive shopping experience and optimized performance.",
     "link": "https://thekanaa.com/en-sa/",

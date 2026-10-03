@@ -1,9 +1,22 @@
 [
   {
+    "company": "BBY Services India LLP",
+    "title": "Software Engineer",
+    "startDate": "May 2026",
+    "endDate": "Present",
+    "order": 0,
+    "bullets": [
+      { "point": "Built Ask Blue's streaming-chat caching layer, achieving under 1s LCP and 0 CLS." },
+      { "point": "Developed Ask Blue and Manage Content micro-frontends with shared packages and optimized API calls." },
+      { "point": "Automated package releases and PR validation with GitHub Actions, Jest, and build checks." },
+      { "point": "Built shared web and mobile UI components with Styled Components, Storybook, and React Native." }
+    ]
+  },
+  {
     "company": "Deepdive (Techies Infotech)",
     "title": "Senior Frontend Engineer",
     "startDate": "Apr 2025",
-    "endDate": "Present",
+    "endDate": "Apr 2026",
     "bullets": [
       {
         "point": "Led frontend development for enterprise-scale e-commerce PWAs including MECL, LAe3bs, and Sony platforms."
