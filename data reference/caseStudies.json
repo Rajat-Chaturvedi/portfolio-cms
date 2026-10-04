@@ -7,7 +7,12 @@
     "problem": "Merchants were dropping during a long onboarding flow with no progress visibility.",
     "solution": "Built a multi-step wizard with autosave, role-aware forms, and server-side validation for each stage.",
     "outcome": "Increased onboarding completion by 38% and reduced support tickets by 26%.",
-    "stack": ["Next.js", "TypeScript", "React Hook Form", "SCSS"],
+    "stack": [
+      "Next.js",
+      "TypeScript",
+      "React Hook Form",
+      "SCSS"
+    ],
     "liveUrl": "https://example.com/onboarding",
     "repoUrl": "https://github.com/Rajat-Chaturvedi/onboarding-revamp"
   },
@@ -19,7 +24,12 @@
     "problem": "Leadership had delayed visibility into campaign performance and store-level trends.",
     "solution": "Implemented modular dashboard widgets with cached API aggregation, filter presets, and visual drilldowns.",
     "outcome": "Reduced reporting time from hours to minutes and improved weekly planning cadence.",
-    "stack": ["Next.js", "Node.js", "Chart.js", "PostgreSQL"],
+    "stack": [
+      "Next.js",
+      "Node.js",
+      "Chart.js",
+      "PostgreSQL"
+    ],
     "liveUrl": "https://example.com/dashboard",
     "repoUrl": "https://github.com/Rajat-Chaturvedi/sales-dashboard"
   },
@@ -31,7 +41,12 @@
     "problem": "Content updates required code deployments and slowed down profile freshness.",
     "solution": "Migrated static content to structured content models and created reusable mappers for UI components.",
     "outcome": "Enabled non-developers to update content in under 5 minutes without code changes.",
-    "stack": ["Next.js", "Strapi", "TypeScript", "REST API"],
+    "stack": [
+      "Next.js",
+      "Strapi",
+      "TypeScript",
+      "REST API"
+    ],
     "liveUrl": "https://example.com/portfolio",
     "repoUrl": "https://github.com/Rajat-Chaturvedi/portfolio-cms"
   }

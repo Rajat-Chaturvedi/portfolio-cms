@@ -1,29 +1,47 @@
 [
   {
     "id": 1,
-    "author": "Aarav Mehta",
-    "role": "Engineering Manager",
-    "company": "Nova Retail",
-    "content": "Rajat consistently turns complex requirements into clean and scalable experiences. He improves both speed and quality.",
-    "name": "Aarav Mehta",
-    "quote": "Rajat consistently turns complex requirements into clean and scalable experiences. He improves both speed and quality."
+    "author": "Abhishek Debnath",
+    "role": "Senior Engineering Manager",
+    "company": "Best Buy India",
+    "content": "Good work with the contextual prompt work. I was amazed that you thought through each scenario and executed the best way you could. Thanks!",
+    "name": "Abhishek Debnath",
+    "quote": "Good work with the contextual prompt work. I was amazed that you thought through each scenario and executed the best way you could. Thanks!"
   },
   {
     "id": 2,
-    "author": "Sana Kapoor",
-    "role": "Product Designer",
-    "company": "CloudOrbit",
-    "content": "One of the strongest frontend collaborators I have worked with. His implementation quality matches design intent with precision.",
-    "name": "Sana Kapoor",
-    "quote": "One of the strongest frontend collaborators I have worked with. His implementation quality matches design intent with precision."
+    "author": "Mahima",
+    "role": "Associate Director",
+    "company": "Best Buy India",
+    "content": "Kudos to Rajat for working and implementing HTML caching for Ask Blue",
+    "name": "Mahima",
+    "quote": "Kudos to Rajat for working and implementing HTML caching for Ask Blue"
   },
   {
     "id": 3,
-    "author": "Dhruv Sethi",
+    "author": "Anurag Byala",
     "role": "Founder",
-    "company": "ScaleForge",
+    "company": "Deepdive Innovations",
     "content": "Rajat brought ownership, speed, and thoughtful architecture decisions that helped us launch ahead of schedule.",
-    "name": "Dhruv Sethi",
+    "name": "Anurag Byala",
     "quote": "Rajat brought ownership, speed, and thoughtful architecture decisions that helped us launch ahead of schedule."
+  },
+  {
+    "id": 4,
+    "author": "Cantek Cetin",
+    "role": "CTO",
+    "company": "Modern Electronics",
+    "content": "Rajat consistently turns complex requirements into clean and scalable experiences. He improves both speed and quality.",
+    "name": "Cantek Cetin",
+    "quote": "Rajat consistently turns complex requirements into clean and scalable experiences. He improves both speed and quality."
+  },
+  {
+    "id": 5,
+    "author": "Nayana Nandakumar",
+    "role": "Project Manager",
+    "company": "Deepdive Innovations",
+    "content": "Demonstrates strong team collaboration and plays a key role in keeping the team aligned with project goals and timelines. Proactively supports team members and remains readily available to address challenges or clarifications. Shows high ownership and commitment toward project delivery, consistently focusing on quality, accountability, and timely completion of tasks. Contributes positively to overall team productivity and project success.",
+    "name": "Nayana Nandakumar",
+    "quote": "Demonstrates strong team collaboration and plays a key role in keeping the team aligned with project goals and timelines. Proactively supports team members and remains readily available to address challenges or clarifications. Shows high ownership and commitment toward project delivery, consistently focusing on quality, accountability, and timely completion of tasks. Contributes positively to overall team productivity and project success."
   }
 ]

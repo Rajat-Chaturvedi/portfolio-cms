@@ -49,7 +49,12 @@
     "name": "The Kanaa",
     "description": "The Kanaa is an e-commerce platform tailored for the GCC market, offering a curated range of products across categories with an intuitive shopping experience and optimized performance.",
     "link": "https://thekanaa.com/en-sa/",
-    "techStack": ["nextjs", "pwa", "magento2", "graphQL"],
+    "techStack": [
+      "nextjs",
+      "pwa",
+      "magento2",
+      "graphQL"
+    ],
     "order": 1,
     "id": 1,
     "image": {
@@ -60,7 +65,13 @@
     "name": "MECL (ME Stores)",
     "description": "MECL (ME Stores) is a large-scale e-commerce platform serving the Saudi market, offering a wide range of consumer products with a focus on performance, scalability, and seamless shopping experience.",
     "link": "https://mestores.com/en_sa",
-    "techStack": ["nextjs", "pwa", "magento2", "graphQL", "sass"],
+    "techStack": [
+      "nextjs",
+      "pwa",
+      "magento2",
+      "graphQL",
+      "sass"
+    ],
     "order": 2,
     "id": 2,
     "image": {
@@ -71,7 +82,13 @@
     "name": "PisaStone",
     "description": "PisaStone offers high-quality engineered and natural stone surfaces for residential and commercial use. Their products blend durability with aesthetic appeal for various interior and exterior applications.",
     "link": "https://www.pisastone.co.uk/",
-    "techStack": ["nextjs 14", "typescript", "mongodb", "rest api", "sass"],
+    "techStack": [
+      "nextjs 14",
+      "typescript",
+      "mongodb",
+      "rest api",
+      "sass"
+    ],
     "order": 3,
     "id": 3,
     "image": {
@@ -82,7 +99,12 @@
     "name": "CMS PisaStone",
     "description": "Inhouse CMS for managing product listings, reviews, orders, and other website content of Pisastone.",
     "link": "https://cms.pisastone.co.uk/",
-    "techStack": ["nextjs 14", "mongodb", "bootstrap cms", "rest api"],
+    "techStack": [
+      "nextjs 14",
+      "mongodb",
+      "bootstrap cms",
+      "rest api"
+    ],
     "order": 4,
     "id": 4,
     "image": {
@@ -93,7 +115,11 @@
     "name": "Wasalt",
     "description": "Wasalt is the first-ever AI-powered real estate platform in Saudi Arabia that deals in both residential as well as commercial real estate properties.",
     "link": "https://wasalt.com/en",
-    "techStack": ["nextjs", "strapi", "ant design"],
+    "techStack": [
+      "nextjs",
+      "strapi",
+      "ant design"
+    ],
     "order": 5,
     "id": 5,
     "image": {
@@ -104,7 +130,11 @@
     "name": "Wasalt Auction",
     "description": "A web platform for browsing and buying commercial or residential assets from Wasalt auctions via live bidding.",
     "link": "https://auction.wasalt.com/en",
-    "techStack": ["nextjs", "strapi", "sass"],
+    "techStack": [
+      "nextjs",
+      "strapi",
+      "sass"
+    ],
     "order": 6,
     "id": 6,
     "image": {
@@ -115,7 +145,11 @@
     "name": "Wasalt Auction Console",
     "description": "A web platform enabling admins to manage auction data and monitor statistics through dashboards with role-based access.",
     "link": "https://auction-console.wasalt.com/en",
-    "techStack": ["nextjs", "refine", "ant design"],
+    "techStack": [
+      "nextjs",
+      "refine",
+      "ant design"
+    ],
     "order": 7,
     "id": 7,
     "image": {
@@ -126,7 +160,11 @@
     "name": "UMS BackOffice",
     "description": "A web platform enabling super admins and admins to manage auction data and monitor statistics with role-based permissions.",
     "link": "https://ums.wasalt.com/en",
-    "techStack": ["nextjs", "refine", "ant design"],
+    "techStack": [
+      "nextjs",
+      "refine",
+      "ant design"
+    ],
     "order": 8,
     "id": 8,
     "image": {
@@ -137,7 +175,11 @@
     "name": "Vougish",
     "description": "A headless e-commerce web application for lifestyle and accessory products using Next.js and Magento 2.",
     "link": "https://voguish.vercel.app/",
-    "techStack": ["nextjs", "magento2", "mui"],
+    "techStack": [
+      "nextjs",
+      "magento2",
+      "mui"
+    ],
     "order": 9,
     "id": 9,
     "image": {
@@ -148,7 +190,11 @@
     "name": "Yexpedite",
     "description": "Yexpedite is a dynamic website designed to streamline and enhance logistics and shipping processes for businesses.",
     "link": "https://www.yexpedite.com/stores",
-    "techStack": ["nextjs", "magento2", "middleware"],
+    "techStack": [
+      "nextjs",
+      "magento2",
+      "middleware"
+    ],
     "order": 10,
     "id": 10,
     "image": {
@@ -159,7 +205,11 @@
     "name": "HRMS",
     "description": "An advanced Human Resource Management System built using Next.js, TypeScript, MongoDB, Prisma ORM, and GraphQL.",
     "link": "https://drive.google.com/file/d/1RpCpx4My2xDNqXRYpWoyr-zL9QmUaybo/view",
-    "techStack": ["nextjs", "graphql", "mongodb"],
+    "techStack": [
+      "nextjs",
+      "graphql",
+      "mongodb"
+    ],
     "order": 11,
     "id": 11,
     "image": {
