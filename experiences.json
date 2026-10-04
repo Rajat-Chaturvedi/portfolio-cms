@@ -97,7 +97,7 @@
     "endDate": "Nov 2024",
     "bullets": [
       {
-        "point": "Designed and developed robust software applications to support business operations and client needs.",
+        "point": "Improved Wasalt Core Web Vitals across homepage, property listing (PLP), search, and property detail (PDP) pages, reducing LCP from 13s to under 2s and CLS from 1+ to 0.01.",
         "id": 1
       },
       {
@@ -105,7 +105,7 @@
         "id": 2
       },
       {
-        "point": "Optimized existing systems for performance, scalability, and security.",
+        "point": "Integrated live bidding for property and unit listings on Wasalt Auction; following launch, orders and sales increased 20-25% and commissions surpassed 1M+.",
         "id": 3
       },
       {

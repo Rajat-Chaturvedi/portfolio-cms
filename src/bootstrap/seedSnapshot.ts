@@ -42,6 +42,24 @@ export async function seedSnapshotContent(strapi: StrapiLike): Promise<void> {
       "api::writing.writing",
       ["title", "content", "author", "url", "publisher"],
     ],
+    [
+      "/api/impact-metrics",
+      "api::impact-metric.impact-metric",
+      [
+        "slug",
+        "metric",
+        "value",
+        "description",
+        "context",
+        "project",
+        "company",
+        "measurement",
+        "detail",
+        "href",
+        "featured",
+        "chart",
+      ],
+    ],
   ] as const;
 
   for (const [endpoint, uid, fields] of collections) {

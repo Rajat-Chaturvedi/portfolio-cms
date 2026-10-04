@@ -6,8 +6,17 @@
     "displayName": "Impact Metric"
   },
   "attributes": {
+    "slug": { "type": "string" },
     "metric": { "type": "string" },
     "value": { "type": "string" },
-    "description": { "type": "text" }
+    "description": { "type": "text" },
+    "context": { "type": "text" },
+    "project": { "type": "string" },
+    "company": { "type": "string" },
+    "measurement": { "type": "text" },
+    "detail": { "type": "text" },
+    "href": { "type": "string" },
+    "featured": { "type": "boolean" },
+    "chart": { "type": "json" }
   }
 }

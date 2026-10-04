@@ -66,29 +66,6 @@ const ctas = [
   },
 ];
 
-const impactMetrics = [
-  {
-    metric: "Projects Shipped",
-    value: "30+",
-    description: "Across startup and enterprise use-cases",
-  },
-  {
-    metric: "Flow Completion Lift",
-    value: "38%",
-    description: "From onboarding UX redesign",
-  },
-  {
-    metric: "Support Ticket Drop",
-    value: "26%",
-    description: "After validation and UI improvements",
-  },
-  {
-    metric: "Production Uptime",
-    value: "99.9%",
-    description: "For client-facing dashboard release",
-  },
-];
-
 const nowItems = [
   {
     title: "Now",

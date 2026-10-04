@@ -71,9 +71,18 @@ async function seedData() {
     for (const metric of metricsData) {
       await api.post(`/impact-metrics`, {
         data: {
-          metric: metric.label,
+          slug: metric.slug,
+          metric: metric.metric,
           value: metric.value,
-          description: metric.note,
+          description: metric.description,
+          context: metric.context,
+          project: metric.project,
+          company: metric.company,
+          measurement: metric.measurement,
+          detail: metric.detail,
+          href: metric.href,
+          featured: metric.featured,
+          chart: metric.chart,
           publishedAt: new Date(),
         },
       });

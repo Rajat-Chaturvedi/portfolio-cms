@@ -1,1 +1,187 @@
-[]
+[
+  {
+    "id": 1,
+    "slug": "fynd-commerce-delivery",
+    "metric": "shorter feature-development cycles",
+    "value": "35%",
+    "description": "Fynd Commerce · sprint velocity",
+    "context": "Fynd Commerce · measured through sprint velocity",
+    "project": "Fynd Commerce",
+    "company": "Deepdive Innovations Pvt. Ltd.",
+    "measurement": "Sprint velocity, as stated in the resume.",
+    "detail": "Led the frontend team in building a Next.js App Router and React Native app shell with reusable layouts and Redux.",
+    "href": "/#experience",
+    "featured": true,
+    "chart": {
+      "kind": "indexed-reduction",
+      "baseline": 100,
+      "result": 65,
+      "baselineLabel": "Before",
+      "resultLabel": "After",
+      "explanation": "Relative cycle-time index: baseline 100; after change 65."
+    }
+  },
+  {
+    "id": 2,
+    "slug": "commerce-order-errors",
+    "metric": "fewer order-processing errors",
+    "value": "60%",
+    "description": "Checkout and fulfillment flows · B2C",
+    "context": "Checkout and fulfillment flows · B2C",
+    "project": "Checkout and order management",
+    "company": "Deepdive Innovations Pvt. Ltd.",
+    "measurement": "Checkout and fulfillment error rates on B2C flows.",
+    "detail": "Led development of checkout and order-management systems integrating CRM, ERP, and logistics.",
+    "href": "/#experience",
+    "featured": true,
+    "chart": {
+      "kind": "indexed-reduction",
+      "baseline": 100,
+      "result": 40,
+      "baselineLabel": "Before",
+      "resultLabel": "After",
+      "explanation": "Relative error-rate index: baseline 100; after change 40."
+    }
+  },
+  {
+    "id": 3,
+    "slug": "ask-blue-vitals",
+    "metric": "LCP, with 0 CLS",
+    "value": "<1s",
+    "description": "Ask Blue · Core Web Vitals monitoring",
+    "context": "Ask Blue · Core Web Vitals monitoring",
+    "project": "Ask Blue conversational commerce",
+    "company": "Best Buy",
+    "measurement": "Largest Contentful Paint and Cumulative Layout Shift, measured through Core Web Vitals monitoring.",
+    "detail": "Architected a micro-frontend caching layer for low-latency streaming chat and cached-to-live conversation handoff on Ask Blue's conversational commerce interface.",
+    "href": "/#experience",
+    "featured": true,
+    "chart": {
+      "kind": "metric-pair",
+      "title": "Core Web Vitals results",
+      "metrics": [
+        {
+          "label": "LCP",
+          "value": "<1s"
+        },
+        {
+          "label": "CLS",
+          "value": "0"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "slug": "pisastone-web-vitals",
+    "metric": "SEO improvement",
+    "value": "50%",
+    "description": "PisaStone web app · Next.js migration",
+    "context": "PisaStone web app · SEO and page-speed gains after Next.js migration",
+    "project": "PisaStone",
+    "company": "",
+    "measurement": "TTFB (time to first server response): 0.412s; FCP (time to first visible content): 1.223s.",
+    "detail": "Migrated the PisaStone web app to Next.js with Node.js, with a reported 50% SEO improvement.",
+    "href": "/projects/pisastone",
+    "featured": false,
+    "chart": {
+      "kind": "metric-pair",
+      "title": "Reported page performance",
+      "metrics": [
+        {
+          "label": "TTFB",
+          "value": "0.412s"
+        },
+        {
+          "label": "FCP",
+          "value": "1.223s"
+        }
+      ],
+      "note": "Page-speed results after the Next.js migration."
+    }
+  },
+  {
+    "id": 5,
+    "slug": "payment-provider-integrations",
+    "metric": "payment providers integrated",
+    "value": "5",
+    "description": "Stripe, Checkout, Tabby, Tamara, and Apple Pay",
+    "context": "Checkout integrations across five payment providers",
+    "project": "Checkout and order management",
+    "company": "Deepdive Innovations Pvt. Ltd.",
+    "measurement": "Provider integrations listed in the resume.",
+    "detail": "Built mobile-first, cross-browser payment flows supporting multiple checkout options.",
+    "href": "/#experience",
+    "featured": false,
+    "chart": {
+      "kind": "provider-list",
+      "providers": [
+        "Stripe",
+        "Checkout",
+        "Tabby",
+        "Tamara",
+        "Apple Pay"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "slug": "wasalt-core-web-vitals",
+    "metric": "LCP across key SEO page templates",
+    "value": "<2s",
+    "description": "Wasalt · LCP 13s to under 2s; CLS 1+ to 0.01",
+    "context": "Wasalt · homepage, PLP, search, and PDP",
+    "project": "Wasalt",
+    "company": "Quara Holdings",
+    "measurement": "LCP and CLS across homepage, property listing (PLP), search, and property detail (PDP) pages.",
+    "detail": "Improved Core Web Vitals across Wasalt's key SEO page templates, including the homepage, PLP, search, and PDP.",
+    "href": "/projects/wasalt",
+    "featured": true,
+    "chart": {
+      "kind": "before-after",
+      "title": "Core Web Vitals before and after optimization",
+      "metrics": [
+        {
+          "label": "LCP",
+          "before": "13s",
+          "after": "<2s"
+        },
+        {
+          "label": "CLS",
+          "before": "1+",
+          "after": "0.01"
+        }
+      ],
+      "note": "Homepage, PLP, search, and PDP SEO templates."
+    }
+  },
+  {
+    "id": 7,
+    "slug": "wasalt-auction-live-bidding",
+    "metric": "more orders and sales after live bidding",
+    "value": "20-25%",
+    "description": "Wasalt Auction · property and unit listings · commissions 1M+",
+    "context": "Wasalt Auction · live bidding for property and unit listings",
+    "project": "Wasalt Auction",
+    "company": "Quara Holdings",
+    "measurement": "Orders and sales increased 20-25%; commissions surpassed 1M+ following the live-bidding launch.",
+    "detail": "Integrated live bidding for property and unit listings on Wasalt Auction. Following launch, orders and sales increased 20-25% and commissions surpassed 1M+.",
+    "href": "/projects/wasalt-auction",
+    "featured": true,
+    "chart": {
+      "kind": "metric-set",
+      "title": "Commercial outcomes after live bidding",
+      "metrics": [
+        {
+          "label": "Orders and sales",
+          "value": "+20-25%"
+        },
+        {
+          "label": "Commission",
+          "value": "1M+"
+        }
+      ],
+      "note": "Live bidding across property and unit listings."
+    }
+  }
+]

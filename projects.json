@@ -113,7 +113,7 @@
   },
   {
     "name": "Wasalt",
-    "description": "Wasalt is the first-ever AI-powered real estate platform in Saudi Arabia that deals in both residential as well as commercial real estate properties.",
+    "description": "AI-powered Saudi real estate platform for residential and commercial properties. Improved LCP from 13s to under 2s and CLS from 1+ to 0.01 across homepage, PLP, search, and PDP SEO templates.",
     "link": "https://wasalt.com/en",
     "techStack": [
       "nextjs",
@@ -128,7 +128,7 @@
   },
   {
     "name": "Wasalt Auction",
-    "description": "A web platform for browsing and buying commercial or residential assets from Wasalt auctions via live bidding.",
+    "description": "Auction platform for residential and commercial property and unit listings with live bidding. Following launch, orders and sales increased 20-25% and commissions surpassed 1M+.",
     "link": "https://auction.wasalt.com/en",
     "techStack": [
       "nextjs",
